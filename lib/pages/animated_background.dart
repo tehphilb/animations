@@ -74,3 +74,5 @@ class _AnimatedImageState extends State<AnimatedImage>
     );
   }
 }
+
+// https://www.youtube.com/watch?v=XIcS70JcNa4&t=21s
